@@ -7,3 +7,17 @@ Instructions:
 
 `serverconfig.xml` changes are not needed for improvements to be visible,  
 but it's recommended for Dedicated Servers that have more players than 2-3 online.  
+
+Find these lines:
+```
+<property name="MaxSpawnedZombies"				value="64" />	
+<property name="MaxSpawnedAnimals"				value="50" />
+```
+
+Change to:
+```
+<property name="MaxSpawnedZombies"				value="164" />	
+<property name="MaxSpawnedAnimals"				value="150" />
+```
+
+And it should be fine for at least 5-10 active players.
