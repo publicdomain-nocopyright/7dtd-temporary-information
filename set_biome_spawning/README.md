@@ -4,7 +4,8 @@ Instructions:
 1. Paste the mod from the `mods` folder into your own **dedicated server** or even your **7DTD Client**..  
 2. Restart the dedicated server (or your 7DTD Client if you applied this mod to your client only).  
 3. Connect to your dedicated server as a player; or play/continue existing single player world.
-4. You should immediately see changes of zombies, if they were killed before joining, it might takes up to ~4 in-game hours for new zombies to appear.
+4. You should immediately see changes of zombies,  
+   If they were killed around your spawning before joining, it might takes up to ~4 in-game hours for new zombies to appear around.
 
 `serverconfig.xml` changes are not needed for improvements to be visible,  
 but it's recommended for Dedicated Servers that have more players than 2-3 online.  
