@@ -1,3 +1,5 @@
+Early open source of spawning modlet by request of sinkingsun690.
+
 These ways are used to achieve more zombies in the overall world on 7DTD Vanilla Public Server
 
 Instructions:
