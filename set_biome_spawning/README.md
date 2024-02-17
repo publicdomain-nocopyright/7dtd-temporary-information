@@ -16,7 +16,7 @@ Instructions:
 but it's recommended for Dedicated Servers that have more players than 2-3 online.  
 
 ![image](https://github.com/publicdomain-nocopyright/7dtd-temporary-information/assets/21064622/9cee9bc3-8ea2-42e9-b516-0d3cf1e8d45d)
-> As can be seen on this live Dedicated Server 6 players were able on average to spawn active 60 zombies.  
+> As can be seen on this live Dedicated Server 6 players were able to spawn active 60 zombies at the moment of taking picture.  
 > This seems to be the moement where the further changes might be required to make sure the spawning is smooth and not limited.  
 
 Find these lines:
