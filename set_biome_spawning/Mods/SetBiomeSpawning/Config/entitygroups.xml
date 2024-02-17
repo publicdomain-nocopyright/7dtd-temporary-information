@@ -1,0 +1,60 @@
+<configs>
+<!-- Try to Increase the none for more sparse animal distribution -->
+<set xpath="entitygroups/entitygroup[@name='WildGameForest']">
+			animalRabbit, 30
+			animalChicken, 30
+			animalStag, 2.5
+			animalDoe, 2.5
+			animalBoar, 5
+			animalWolf, 2
+			animalDireWolf, 1
+			animalMountainLion, 0.5
+			animalBear, 0.5
+			animalSnake, 1
+			none, 25
+</set>
+
+	
+<!-- worked  Adds deers to the pineforest at daytime 
+
+<set xpath="entitygroups/entitygroup[@name='WildGameForest']">
+
+			animalDoe, 50
+			none, 50
+</set>
+
+	
+
+
+-->
+
+
+	
+	<!-- NOT WORKING; 
+
+	<remove xpath="/entitygroups/entitygroup[@name='WildGameForest']"/>
+	
+	
+	<append xpath="/entitygroups">
+		<entitygroup name="WildGameForest">
+			animalDoe, 50
+			none, 50
+		</entitygroup>	
+	</append>
+-->
+
+
+
+
+
+
+	<!-- Probably not working this way
+				animalRabbit, 25
+			animalChicken, 25
+	
+	
+	<append xpath="/entitygroups/entitygroup[@name='WildGameForest']">
+		animalDoe, 15
+	</append>
+	-->
+</configs>

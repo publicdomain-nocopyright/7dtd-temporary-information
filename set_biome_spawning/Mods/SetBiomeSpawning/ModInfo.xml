@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="SetBiomeSpawning" /> 
+    <DisplayName value="Set Biome Spawning" /> 
+    <Version value="0.1" /> 
+    <Description value="Set Biome spawning for A21.2 B30 inside 7DTD Dedicated Server and Single Player" /> 
+    <Author value="VanillaServer" /> 
+    <Website value="https://7daystodie.fandom.com/wiki/Mod_Structure" /> 
+</xml>
