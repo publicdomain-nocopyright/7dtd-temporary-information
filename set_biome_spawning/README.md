@@ -8,6 +8,9 @@ Instructions:
 `serverconfig.xml` changes are not needed for improvements to be visible,  
 but it's recommended for Dedicated Servers that have more players than 2-3 online.  
 
+![image](https://github.com/publicdomain-nocopyright/7dtd-temporary-information/assets/21064622/9cee9bc3-8ea2-42e9-b516-0d3cf1e8d45d)
+
+
 Find these lines:
 ```
 <property name="MaxSpawnedZombies"				value="64" />	
