@@ -6,7 +6,7 @@ Instructions:
 3. Connect to your dedicated server as a player; or play/continue existing single player world.
 4. You should immediately see changes of zombies spawning in the whole biome.  
 5. If zombies were killed around you before joining, it might takes up to ~4 in-game hours for new zombies to appear in the kill zone.  
-   1. Walk around to some way further places to see zombies spawning. Sometimes you have to stop for 5-15 seconds and wait for zombies to appear while walking on a dedicated server if the ping is higher than 4ms. The usual player ping is around 24ms.  
+   1. Walk around to some way further places to see zombies spawning. Sometimes you have to stop for 4-10 seconds and wait for zombies to appear while walking on a dedicated server if the ping is higher than 4ms. The usual player ping is around 24ms.  
 
 `serverconfig.xml` changes are not needed for improvements to be visible,  
 but it's recommended for Dedicated Servers that have more players than 2-3 online.  
